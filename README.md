@@ -6,8 +6,8 @@ This is the form:
 
 MAlone/creditcardslist
 
-creditcardslist (XXX)
-========================================
+creditcardslist (XXX)<br>
+========================================<br>
 Issuing network: <br>
 Bank: <br>
 Type: <br>
