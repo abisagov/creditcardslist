@@ -8,17 +8,17 @@ MAlone/creditcardslist
 
 creditcardslist (XXX)
 ========================================
-Issuing network: 
-Bank: 
-Type: 
-Card number: 
-Card PIN: 
-CVV/CVC: 
-Expiration date (MM/YY): 
-Name: 
-Country: 
-Address: 
-
-Added by
+Issuing network: <br>
+Bank: <br>
+Type: <br>
+Card number: <br>
+Card PIN: <br>
+CVV/CVC: <br>
+Expiration date (MM/YY): <br>
+Name: <br>
+Country: <br>
+Address: <br>
+<br>
+Added by<br>
 
 Add by txt type.
